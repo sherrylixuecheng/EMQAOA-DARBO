@@ -13,9 +13,11 @@ This repository includes the codes and results for the manuscript:
 ## Installation and usage
 This repository requires to install two open-sourced packages: 
 
-* [ODBO](https://github.com/tencent-quantum-lab/ODBO)packge: The installation direction is provided in the corresponding main page.
+* [ODBO](https://github.com/tencent-quantum-lab/ODBO) packge: The installation direction is provided in the corresponding main page.
 
-* [TencirCircuit](https://github.com/tencent-quantum-lab/tensorcircuit): ```pip install tensorcircuit```
+* [TencirCircuit](https://github.com/tencent-quantum-lab/tensorcircuit) or TC: ```pip install tensorcircuit``` 
+
+** To enable the usage of TC-Hardware inferface to run hardware experiments, you need to use [TencirCircuit-dev](https://github.com/refraction-ray/tensorcircuit-dev) 
 
 ## Content list
 
