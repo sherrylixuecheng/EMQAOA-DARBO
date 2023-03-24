@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/sherrylixuecheng/EMQAOA-DARBO">
-    <img width=30% src="https://github.com/sherrylixuecheng/EMQAOA-DARBO/blob/main/schematic.png">
+    <img width=80% src="https://github.com/sherrylixuecheng/EMQAOA-DARBO/blob/main/schematic.png">
   </a>
 </p>
 
