@@ -23,7 +23,7 @@ This repository requires to install two open-sourced packages:
 
 * [DARBO_optimization_ideal_example.ipynb](DARBO_optimization_ideal_example.ipynb): This is a simple example to illustrate the methods \& to run a test MAX-CUT on a random graph with a circuit depth of 4.
 
-* [EMQAOA_DARBO_run.ipynb.ipynb](EMQAOA_DARBO_run.ipynb.ipynb): This is the notebook to illustrate the EMQAOA-DARBO on the real hardware. This collects the hardwared data shown in the manuscript. Note: For non-Tencent-Quantum-Lab user, this set of codes cannot be run directly due to the unavailable access to the Tencent hardware. If you would like to have a try, please contact Tencent Quantum Lab to check the possible options for usage. 
+* [EMQAOA_DARBO_run.ipynb](EMQAOA_DARBO_run.ipynb.ipynb): This is the notebook to illustrate the EMQAOA-DARBO on the real hardware. This collects the hardwared data shown in the manuscript. Note: For non-Tencent-Quantum-Lab user, this set of codes cannot be run directly due to the unavailable access to the Tencent hardware. If you would like to have a try, please contact Tencent Quantum Lab to check the possible options for usage. 
 
 * [si_more_stats.xlsx](si_more_stats.xlsx): This is a supplemental excel to summarize the optimized losses and $r$ values for different optimizers and different cases.
 
