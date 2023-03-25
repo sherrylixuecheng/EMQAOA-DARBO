@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/sherrylixuecheng/EMQAOA-DARBO">
-    <img width=30% src="https://github.com/sherrylixuecheng/EMQAOA-DARBO/blob/main/schematic.png">
+    <img width=80% src="https://github.com/sherrylixuecheng/EMQAOA-DARBO/blob/main/schematic.png">
   </a>
 </p>
 
@@ -13,9 +13,11 @@ This repository includes the codes and results for the manuscript:
 ## Installation and usage
 This repository requires to install two open-sourced packages: 
 
-* [ODBO](https://github.com/tencent-quantum-lab/ODBO)packge: The installation direction is provided in the corresponding main page.
+* [ODBO](https://github.com/tencent-quantum-lab/ODBO) packge: The installation direction is provided in the corresponding main page.
 
-* [TencirCircuit](https://github.com/tencent-quantum-lab/tensorcircuit): ```pip install tensorcircuit```
+* [TencirCircuit](https://github.com/tencent-quantum-lab/tensorcircuit) or TC: ```pip install tensorcircuit``` 
+
+** To enable the usage of TC-Hardware inferface to run hardware experiments, you need to use [TencirCircuit-dev](https://github.com/refraction-ray/tensorcircuit-dev) 
 
 ## Content list
 
