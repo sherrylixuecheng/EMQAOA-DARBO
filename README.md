@@ -17,7 +17,6 @@ This repository requires to install two open-sourced packages:
 
 * [TencirCircuit](https://github.com/tencent-quantum-lab/tensorcircuit) or TC: ```pip install tensorcircuit``` 
 
-** To enable the usage of TC-Hardware inferface to run hardware experiments, you need to use [TencirCircuit-dev](https://github.com/refraction-ray/tensorcircuit-dev) 
 
 ## Content list
 
