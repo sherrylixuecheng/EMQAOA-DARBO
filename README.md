@@ -48,7 +48,7 @@ This repository requires to install two open-sourced packages:
 @article{cheng2023darbo,
   title={Error-mitigated Quantum Approximate Optimization via Learning-based Adaptive Optimization},
   author={Cheng, Lixue and Chen, Yu-Qin and Zhang, Shi-Xin and Zhang, Shengyu},
-  journal={arXiv preprint arXiv:xxxx.xxxx},
+  journal={arXiv preprint arXiv:2303.14877},
   year={2023}
 }
 ```
