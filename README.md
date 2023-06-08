@@ -15,7 +15,7 @@ This repository requires to install two open-sourced packages:
 
 * [ODBO](https://github.com/tencent-quantum-lab/ODBO) packge: The installation direction is provided in the corresponding main page.
 
-* [TencirCircuit](https://github.com/tencent-quantum-lab/tensorcircuit) or TC: ```pip install tensorcircuit``` 
+* [TensorCircuit](https://github.com/tencent-quantum-lab/tensorcircuit) or TC: ```pip install tensorcircuit``` 
 
 
 ## Content list
