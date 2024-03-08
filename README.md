@@ -48,11 +48,11 @@ This repository requires to install two open-sourced packages:
 @article{cheng2023darbo,
   title={Quantum approximate optimization via learning-based adaptive optimization},
   author={Cheng, Lixue and Chen, Yu-Qin and Zhang, Shi-Xin and Zhang, Shengyu},
-	doi = {10.1038/s42005-024-01577-x},
-	journal = {Communications Physics},
-	number = {1},
-	pages = {83},
-	volume = {7},
-	year = {2024},
+  doi = {10.1038/s42005-024-01577-x},
+  journal = {Communications Physics},
+  number = {1},
+  pages = {83},
+  volume = {7},
+  year = {2024},
 }
 ```
