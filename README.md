@@ -8,7 +8,7 @@
 
 ## Overview
 This repository includes the codes and results for the manuscript:
-***Error-mitigated Quantum Approximate Optimization via Learning-based Adaptive Optimization***
+***Quantum approximate optimization via learning-based adaptive optimization*** published on Communications Physics [link](https://www.nature.com/articles/s42005-024-01577-x)
 
 ## Installation and usage
 This repository requires to install two open-sourced packages: 
@@ -46,9 +46,13 @@ This repository requires to install two open-sourced packages:
 
 ```
 @article{cheng2023darbo,
-  title={Error-mitigated Quantum Approximate Optimization via Learning-based Adaptive Optimization},
+  title={Quantum approximate optimization via learning-based adaptive optimization},
   author={Cheng, Lixue and Chen, Yu-Qin and Zhang, Shi-Xin and Zhang, Shengyu},
-  journal={arXiv preprint arXiv:2303.14877},
-  year={2023}
+	doi = {10.1038/s42005-024-01577-x},
+	journal = {Communications Physics},
+	number = {1},
+	pages = {83},
+	volume = {7},
+	year = {2024},
 }
 ```
