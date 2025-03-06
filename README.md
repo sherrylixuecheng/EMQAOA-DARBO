@@ -13,7 +13,7 @@ This repository includes the codes and results for the manuscript:
 ## Installation and usage
 This repository requires to install two open-sourced packages: 
 
-* [ODBO](https://github.com/tencent-quantum-lab/ODBO) packge: The installation direction is provided in the corresponding main page.
+* [ODBO](https://github.com/sherrylixuecheng/ODBO) packge: The installation direction is provided in the corresponding main page. NOTE: Tencent has deactivate the Tencent public repo [ODBO](https://github.com/tencent-quantum-lab/ODBO) written in the paper. Please see my personal repo linked, and to get the exact version as the published paper version, go to the `tencent_migrate` branch.
 
 * [TensorCircuit](https://github.com/tencent-quantum-lab/tensorcircuit) or TC: ```pip install tensorcircuit``` 
 
