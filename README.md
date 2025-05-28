@@ -15,7 +15,7 @@ This repository requires to install two open-sourced packages:
 
 * [ODBO](https://github.com/sherrylixuecheng/ODBO) packge: The installation direction is provided in the corresponding main page. NOTE: Tencent has deactivate the Tencent public repo [ODBO](https://github.com/tencent-quantum-lab/ODBO) written in the paper. Please see my personal repo linked, and to get the exact version as the published paper version, go to the `tencent_migrate` branch.
 
-* [TensorCircuit](https://github.com/tencent-quantum-lab/tensorcircuit) or TC: ```pip install tensorcircuit``` 
+* [TensorCircuit](https://github.com/tencent-quantum-lab/tensorcircuit) or TC: ```pip install tensorcircuit``` NOTE: We notice that some functions might not work due to the update of tensorcircuit. Any versino close to `0.7.0.dev20230116` should work. Or if you only interested in this approach, please also refer to the most recent [jupyter notebook tutorial](https://tensorcircuit-ng.readthedocs.io/en/latest/tutorials/qaoa_bo.html) in  [TensorCircuit-NG](https://github.com/tensorcircuit/tensorcircuit-ng)
 
 
 ## Content list
